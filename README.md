@@ -6,7 +6,7 @@ A Streamlit-based interactive web application to **predict startup success score
 ## 🔗 Live Demo
 
 Try the live app here:  
-[Startup_Success_Prediction](https://startupsuccessprediction-kzxgtkznzxrujnzeagzcvw.streamlit.app/)
+[Startup_Success_Prediction](https://startup-growth-prediction-jq5pawjpcmvwufw26bokjc.streamlit.app/)
 
 ---
 
