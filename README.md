@@ -8,12 +8,6 @@ A Streamlit-based interactive web application to **predict startup success score
 Try the live app here:  
 [Startup_Success_Prediction](https://startup-growth-predictor.onrender.com/)
 
----
-
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-orange?logo=streamlit)](https://your-live-demo.streamlit.app)
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
 ---
 ## Features
