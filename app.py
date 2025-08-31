@@ -5,7 +5,7 @@ import pickle
 from streamlit_option_menu import option_menu
 
 # Page configuration
-st.set_page_config(page_title="Startup Dashboard",page_icon="🚀" layout="wide")
+st.set_page_config(page_title="Startup Dashboard",page_icon="🚀", layout="wide")
 
 # Sidebar navigation
 with st.sidebar:
