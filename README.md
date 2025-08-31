@@ -6,7 +6,7 @@ A Streamlit-based interactive web application to **predict startup success score
 ## 🔗 Live Demo
 
 Try the live app here:  
-[Startup_Success_Prediction](https://startup-growth-prediction-jq5pawjpcmvwufw26bokjc.streamlit.app/)
+[Startup_Success_Prediction](https://startup-growth-predictor.onrender.com/)
 
 ---
 
@@ -52,8 +52,8 @@ Try the live app here:
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/CodeLinguist-01/Startup-Growth-Prediction.git
-   cd Startup-Growth-Prediction
+   git clone https://github.com/manibhushan-codes/Startup-Growth-Predictor.git
+   cd Startup-Growth-Predictor
    ``` 
 
 ---
@@ -63,7 +63,7 @@ Try the live app here:
 Run the Streamlit app using:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 ## How to Use
 
@@ -114,13 +114,6 @@ Key Python libraries used:
 
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🤝 Contributing
 
 PRs are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -128,8 +121,8 @@ PRs are welcome! For major changes, please open an issue first to discuss what y
 ---
 ## Contact
 
-Created by **CodeLinguist-01**  
-[GitHub](https://github.com/CodeLinguist-01)
+Created by **manibhushan-codes**  
+[GitHub](https://github.com/manibhushan-codes)
 
 Feel free to open issues or contribute!
 
